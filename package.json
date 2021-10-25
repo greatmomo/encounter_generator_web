@@ -1,0 +1,22 @@
+{
+  "name": "encounter_generator_web",
+  "version": "1.0.0",
+  "description": "Encounter Generator for DnD 5e",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greatmomo/encounter_generator_web.git"
+  },
+  "author": "The Great Momo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greatmomo/encounter_generator_web/issues"
+  },
+  "homepage": "https://github.com/greatmomo/encounter_generator_web#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
